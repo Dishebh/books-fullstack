@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"1983413546044cc5b907e29d05717125","collectionName":"mern-db","type":"collection"}
